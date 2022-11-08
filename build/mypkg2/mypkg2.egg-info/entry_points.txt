@@ -1,4 +1,0 @@
-[console_scripts]
-listener = mypkg2.listener:main
-talker = mypkg2.talker:main
-
